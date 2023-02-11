@@ -1,0 +1,30 @@
+.loginBody {
+    display: flex;
+    min-height: 93.5vh;
+    justify-content: center;
+
+    background-color: #212529;
+    color: rgb(255, 255, 255);
+    font-size: calc(10px + 2vmin);
+    padding-bottom: 50px;
+}
+
+.input {
+    background-color: white;
+    border-radius: 7px;
+}
+
+.loginEmail {
+    font-size: 16px;
+    padding: 0%;
+}
+
+.loginPassword {
+    font-size: 16px;
+    padding: 0%;
+}
+
+.err {
+    font-size: 13px;
+    color: #e64646;
+}

@@ -1,0 +1,42 @@
+.body {
+  min-height: 90vh;
+  background-color: #212529;
+  color: rgb(255, 255, 255);
+  font-size: calc(10px + 2vmin);
+  padding-bottom: 50px;
+}
+
+.home-input {
+  background-color: white;
+  border-radius: 7px;
+}
+
+.feedback-header {
+  /* font-size: calc(5px + 2vmin); */
+  text-align: center;
+  align-content: center;
+}
+
+.home-form {
+  align-content: center;
+}
+
+.feedBack-form-label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.sub-body {
+  background-color: white;
+  margin-left: 100px;
+  margin: 200px;
+  min-height: 55vh;
+}
+
+.alert-body {
+  position:absolute; 
+  bottom: 0; 
+  right: 0;
+  margin-bottom: 30px;
+  margin-right: 80px;
+}
